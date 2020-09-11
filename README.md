@@ -12,5 +12,5 @@
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: my email address (toren.gulati@gmail.com)
 - 😄 Pronouns: he, him, his
-- ⚡ Fun fact: I am only 10.5!
+- ⚡ Fun fact: I am only 10.421!
 
