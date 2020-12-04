@@ -5,7 +5,7 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on how to make a github page
+- 🔭 I’m currently working on my repositories.
 - 🌱 I’m currently learning how to use github
 <!--- 👯 I’m looking to collaborate on -->
 - 🤔 I’m looking for help with making a github page
