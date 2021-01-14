@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning how to use github
 <!--- 👯 I’m looking to collaborate on -->
 - 🤔 I’m looking for help with making a github page
-- 💬 Ask me about JavaScript
+- 💬 Ask me about JavaScript/Linux BASH
 - 📫 How to reach me: my email address (toren.gulati@gmail.com)
 - 😄 Pronouns: he, him, his
-- ⚡ Fun fact: I am only 10.421!
+- ⚡ Fun fact: I am only 10.689!
 
