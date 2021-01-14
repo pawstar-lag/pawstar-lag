@@ -6,7 +6,7 @@
 <!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on my repositories.
-- 🌱 I’m currently learning how to use github
+- 🌱 I’m currently learning how to use link shorteners, my favorite is is.gd.
 <!--- 👯 I’m looking to collaborate on -->
 - 🤔 I’m looking for help with R and 
 - 💬 Ask me about CSS/Linux BASH
