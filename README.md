@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my repositories.
 - 🌱 I’m currently learning how to use link shorteners, my favorite is is.gd.
 <!--- 👯 I’m looking to collaborate on -->
-- 🤔 I’m looking for help with R and 
+- 🤔 I’m looking for help with R
 - 💬 Ask me about CSS/Linux BASH
 - 📫 How to reach me: my email address (toren.gulati@gmail.com)
 - 😄 My pronouns are: he, him, his
