@@ -5,7 +5,7 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on my repositories.
+- 🔭 I’m currently working on my repositories (Please help me make good ones!).
 - 🌱 I’m currently learning how to use link shorteners, my favorite is is.gd.
 <!--- 👯 I’m looking to collaborate on -->
 - 🤔 I’m looking for help with R
