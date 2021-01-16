@@ -19,4 +19,4 @@
 - 😼 I prefer cats to dogs.
 - ☯ Insperational quote: "Cogito, ergo sum", "I think; Therefore I am" - Réne Decartes
 - 🕉 Another insperational quote: "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that." - Martin Luther King Jr.
-- 😫 Crappy songs that are OK: **I think; Therefore I am**
+- 😫 Crappy songs that are OK: **_I think; Therefore I am_**
