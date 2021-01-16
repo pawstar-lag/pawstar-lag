@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning how to use link shorteners, my favorite is is.gd.
 <!--- 👯 I’m looking to collaborate on -->
 - 🤔 I’m looking for help with R
-- 💬 Ask me about CSS/Linux BASH
+- 💬 Ask me about Linux BASH
 - 📫 How to reach me: my email address (slickspam4u@gmail.com)
 - 😄 My pronouns are: he, him, his
 - ⚡ Fun fact: I am only 10.7579!
