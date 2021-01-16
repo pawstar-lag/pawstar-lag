@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my repositories (Please help me make good ones!).
 - 🌱 I’m currently learning how to use link shorteners, my favorite is is.gd.
-<!--- 👯 I’m looking to collaborate on -->
+- 🥺 Please Help me with my repositories!!!!
 - 🤔 I’m looking for help with R
 - 💬 Ask me about Linux BASH
 - 📫 How to reach me: my email address (slickspam4u@gmail.com)
@@ -19,4 +19,4 @@
 - 😼 I prefer cats to dogs.
 - ☯ Insperational quote: "Cogito, ergo sum", "I think; Therefore I am" - Réne Decartes
 - 🕉 Another insperational quote: "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that." - Martin Luther King Jr.
-- 😫 Crappy songs that are OK: **_I think; Therefore I am_** by Billie Eilish, **_Intentions_** by Justin Bieber
+- 😫 Crappy songs that are OK: **_I think; Therefore I am_** by Billie Eilish, **_Intentions_** by Justin Bieber, 
