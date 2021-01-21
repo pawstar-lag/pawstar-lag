@@ -21,3 +21,4 @@
 - 🕉 Another insperational quote: "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that." - Martin Luther King Jr.
 - 😫 Crappy songs that are OK: **_I think; Therefore I am_** by Billie Eilish, **_Intentions_** by Justin Bieber
 - 😐 You may be asking yourself, " Why did he say that his primary Language is English, but his name is Japanese?" Well, here is why. It is not my real name. I am not gonna tell you _that_ but it's Japanese because I wanted some localization for my username.
+- 😁 Joke: Q: What does the fox say? A:(Chicken sound)
