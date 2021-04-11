@@ -23,3 +23,4 @@
 - 😐 You may be asking yourself, " Why did he say that his primary Language is English, but his name is Japanese?" Well, here is why. It is not my real name. I am not gonna tell you _that_ but it's Japanese because I wanted some localization for my username.
 - 😁 Joke: Q: What does the fox say? A:(Chicken sound)
 - I am really gonna be online less these days :(
+- Eminem is a really quick rapper, but Tech n9ne is quicker. If you don't belive me, listen to **_Worldwide Choppers_**. I still like Eminem though.
