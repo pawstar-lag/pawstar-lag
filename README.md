@@ -26,4 +26,4 @@
 - Eminem is a really quick rapper, but Tech n9ne is quicker. If you don't belive me, listen to **_Worldwide Choppers_**. I still like Eminem though.
 
 
-### Microsoft is the worst operating system ever. It is closed-source and costs money TO RUN it. Linux, on the other hand, is much better. It deserves the W over the other operating systems. It isn't "cringe" or stupid. Do not listen to people who say that. They are sort of dumb. If you don't believe me, even MICROSOFT USE LINUX TO HOST!! Most servers are Linux. Who cares what anyone says. Linux is the best.
+### Microsoft Windows is the worst operating system ever. It is closed-source and costs money TO RUN it. Linux, on the other hand, is much better. It deserves the W over the other operating systems. It isn't "cringe" or stupid. Do not listen to people who say that. They are sort of dumb. If you don't believe me, even MICROSOFT USES LINUX TO HOST ITS SERVERS!! Most servers are Linux. Who cares what anyone says. Linux is the best.
