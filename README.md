@@ -1,2 +1,2 @@
-BHS Class of 2028
-15 yo
+BHS Class of 2026
+17 yo
